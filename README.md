@@ -18,7 +18,7 @@ Si vous voulez **m'ajouter en amis sur clash royale:** https://link.clashroyale.
 *(Mais nan 😱​, le **GOAT** te laisse l'**HONNEUR** de le rajouter sur CR 😱​😱​😱​??!!?!?!?!, franchement je ne louperai pas l'occasion à ta place ​😉​)(PS: je n'ai pas du tout d'ego 🙂‍↔️​)*
 
 
-<h1 align="center">Langages et outils :</h1>
+<h1 align="center">Langages et outils 🛠️​</h1>
 <h3 align="center">Langages de programmation</h3>
 <p align="center"> 
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
