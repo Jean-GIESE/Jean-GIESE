@@ -7,11 +7,11 @@
 
 - 🌱 J'apprends en ce moment **à optimiser mon code, améliorer mes dépôts git, ainsi que différents langages comme décrit ci-dessous (avec les petites icônes trop stylées :3) en tant qu'étudiant.**
 
-- 📄 À propos de mes expériences **J'ai commencé l'informatique au lycée avec la spécialisation NSI, puis j'ai poursuis avec une première ainsi qu'une deuxième (en cours) année de BUT informatique**
+- 📄 À propos de mes expériences **j'ai commencé l'informatique au lycée avec la spécialisation NSI, puis j'ai poursuivi avec une première ainsi qu'une deuxième (en cours) année de BUT informatique**
 
 - ⚡ Fun fact **Je vous ai déjà dit que j'aimais bien clash royale ? 🙃​**
 
-Si vous voulez **m'ajouter en amis sur clash royale:** `https://link.clashroyale.com/invite/friend/fr?tag=RYRR090PR&token=6hk6ye8g&platform=android`
+Si vous voulez **m'ajouter en amis sur clash royale:** https://link.clashroyale.com/invite/friend/fr?tag=RYRR090PR&token=6hk6ye8g&platform=android
 
 *(Mais nan 😱​, le **GOAT** te laisse l'**HONNEUR** de le rajouter sur CR 😱​😱​😱​??!!?!?!?!, franchement je ne louperai pas l'occasion à ta place ​😉​)(PS: je n'ai pas du tout d'ego 🙂‍↔️​)*
 
