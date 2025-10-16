@@ -11,7 +11,8 @@
 
 - ⚡ Fun fact **Je vous ai déjà dit que j'aimais bien clash royale ? 🙃​**
 
-Si vous voulez **m'ajouter en amis sur clash royale:** https://link.clashroyale.com/invite/friend/fr?tag=RYRR090PR&token=6hk6ye8g&platform=android
+Si vous voulez **m'ajouter en amis sur clash royale:** `https://link.clashroyale.com/invite/friend/fr?tag=RYRR090PR&token=6hk6ye8g&platform=android`
+
 *(Mais nan 😱​, le **GOAT** te laisse l'**HONNEUR** de le rajouter sur CR 😱​😱​😱​??!!?!?!?!, franchement je ne louperai pas l'occasion à ta place ​😉​)(PS: je n'ai pas du tout d'ego 🙂‍↔️​)*
 
 
