@@ -1,9 +1,9 @@
-<h1 align="center">Salut 👋, moi c'est Jean</h1>
+<h1 align="center">Salut <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>, moi c'est Jean</h1>
 <!-- Intro -->
 <p style="margin: 15px;" align="center">
     <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=00AA00&center=true&vCenter=true&lines=joueur+clash+royale;développeur+informatique">
 </p>
-<h3 align="center">Un grand passionné de clash royale venu tout droit de France</h3>
+<h3 align="center">Un grand passionné de clash royale venu tout droit de France <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/></h3>
 
 - 🌱 J'apprends en ce moment **à optimiser mon code, améliorer mes dépôts git, ainsi que différents langages comme décrit ci-dessous (avec les petites icônes trop stylées :3) en tant qu'étudiant.**
 
