@@ -1,3 +1,5 @@
+![Bannière](https://i.ytimg.com/vi/bblhL1IJpz0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAcI0lGY4RzhpHP_O_CwcvYzM_GHQ)
+
 <h1 align="center">Salut 👋, moi c'est Jean</h1>
 <!-- Intro -->
 <p style="margin: 15px;" align="center">
@@ -9,7 +11,9 @@
 
 - 📄 À propos de mes expériences **j'ai commencé l'informatique au lycée avec la spécialisation NSI, puis j'ai poursuivi avec une première ainsi qu'une deuxième (en cours) année de BUT informatique**
 
-- ⚡ Fun fact **Je vous ai déjà dit que j'aimais bien clash royale ? 🙃​**
+- ⚡ Fun fact **Ma couleur préférée c'est le vert🟢​​**
+
+- ⚡ Fun fact n°2 **Je vous ai déjà dit que j'aimais bien clash royale ? 🙃​**
 
 Si vous voulez **m'ajouter en amis sur clash royale:** https://link.clashroyale.com/invite/friend/fr?tag=RYRR090PR&token=6hk6ye8g&platform=android
 
