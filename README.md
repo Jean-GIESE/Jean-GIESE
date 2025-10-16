@@ -1,7 +1,7 @@
 <h1 align="center">Salut 👋, moi c'est Jean</h1>
 <!-- Intro -->
 <p style="margin: 15px;" align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=lime&center=true&vCenter=true&lines=joueur+clash+royale;développeur+informatique">
+    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=(0,255,0)&center=true&vCenter=true&lines=joueur+clash+royale;développeur+informatique">
 </p>
 <h3 align="center">Un grand passionné de clash royale venu tout droit de France</h3>
 
