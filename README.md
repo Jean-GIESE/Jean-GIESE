@@ -18,6 +18,20 @@ Si vous voulez **m'ajouter en amis sur clash royale:** https://link.clashroyale.
 *(Mais nan 😱​, le **GOAT** te laisse l'**HONNEUR** de le rajouter sur CR 😱​😱​😱​??!!?!?!?!, franchement je ne louperai pas l'occasion à ta place ​😉​)(PS: je n'ai pas du tout d'ego 🙂‍↔️​)*
 
 
+<h2 align="center">Statistiques</h2>
+<div align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jean-GIESE&theme=2077" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jean-GIESE&theme=2077" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jean-GIESE&theme=2077" />
+  </a>
+</div>
+
+
 <h1 align="center">Langages et outils 🛠️​</h1>
 <h3 align="center">Langages de programmation</h3>
 <p align="center"> 
@@ -53,19 +67,6 @@ Si vous voulez **m'ajouter en amis sur clash royale:** https://link.clashroyale.
 <p align="center">
   <img src="https://img.thenerdstash.com/wp-content/uploads/2022/07/gold-clashroyale-01.jpg" alt="bannière" />
 </p>
-
-<h2 align="center">Statistiques</h2>
-<div align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jean-GIESE&theme=2077" />
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jean-GIESE&theme=2077" />
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jean-GIESE&theme=2077" />
-  </a>
-</div>
 
 
 <h2 align="center">Autres informations</h2>
