@@ -7,7 +7,7 @@
 
 - 🌱 J'apprends en ce moment **à optimiser mon code, améliorer mes dépôts git, ainsi que différents langages comme décrit ci-dessous (avec les petites icônes trop stylées :3) en tant qu'étudiant.**
 
-- 📄 À propos de mes expériences **j'ai commencé l'informatique au lycée avec la spécialisation NSI, puis j'ai poursuivi avec une première ainsi qu'une deuxième (en cours) année de BUT informatique**
+- 📄 À propos de mes expériences **j'ai commencé l'informatique au lycée avec la spécialisation NSI, puis j'ai poursuivi avec une première ainsi qu'une deuxième (en cours) année de BUT informatique (I.U.T Robert Schuman)**
 
 - ⚡ Fun fact **Ma couleur préférée c'est le vert🟢​​**
 
@@ -54,3 +54,23 @@ Si vous voulez **m'ajouter en amis sur clash royale:** https://link.clashroyale.
   <img src="https://img.thenerdstash.com/wp-content/uploads/2022/07/gold-clashroyale-01.jpg" alt="bannière" />
 </p>
 
+<h2 align="center">Autres informations</h2>
+<div align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jean-GIESE&theme=2077" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jean-GIESE&theme=2077" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jean-GIESE&theme=2077" />
+  </a>
+</div>
+
+<div align="center">
+    <a href="https://git.unistra.fr/jgiese" target="_blank">
+        <img alt="GitHub" src="https://www.jcs-profile.com/images/icons/gitlab.svg" width="5%"/></a>
+    &nbsp;•&nbsp;
+    <a href="mailto:giese.jean1@gmail.com" target="_blank">
+        <img alt="Mail" src="https://www.jcs-profile.com/images/icons/gmail.svg" width="5%"/></a>
+</div>
