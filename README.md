@@ -54,7 +54,7 @@ Si vous voulez **m'ajouter en amis sur clash royale:** https://link.clashroyale.
   <img src="https://img.thenerdstash.com/wp-content/uploads/2022/07/gold-clashroyale-01.jpg" alt="bannière" />
 </p>
 
-<h2 align="center">Autres informations</h2>
+<h2 align="center">Statistiques</h2>
 <div align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jean-GIESE&theme=2077" />
@@ -66,6 +66,9 @@ Si vous voulez **m'ajouter en amis sur clash royale:** https://link.clashroyale.
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jean-GIESE&theme=2077" />
   </a>
 </div>
+
+
+<h2 align="center">Autres informations</h2>
 
 <div align="center">
     <a href="https://git.unistra.fr/jgiese" target="_blank">
