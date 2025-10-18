@@ -74,6 +74,6 @@ Si vous voulez **m'ajouter en amis sur clash royale:** https://link.clashroyale.
     <a href="https://git.unistra.fr/jgiese" target="_blank">
         <img alt="GitHub" src="https://www.jcs-profile.com/images/icons/gitlab.svg" width="5%"/></a>
     &nbsp;•&nbsp;
-    <a href="giese.jean1@gmail.com" target="_blank">
+    <a href="mailto:giese.jean1@gmail.com" target="_blank">
         <img alt="Mail" src="https://www.jcs-profile.com/images/icons/gmail.svg" width="5%"/></a>
 </div>
