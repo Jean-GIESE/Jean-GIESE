@@ -18,7 +18,7 @@ Si vous voulez **m'ajouter en amis sur clash royale:** https://link.clashroyale.
 *(Mais nan 😱​, le **GOAT** te laisse l'**HONNEUR** de le rajouter sur CR 😱​😱​😱​??!!?!?!?!, franchement je ne louperai pas l'occasion à ta place ​😉​)(PS: je n'ai pas du tout d'ego 🙂‍↔️​)*
 
 
-<h2 align="center">Statistiques</h2>
+<h1 align="center">Statistiques</h1>
 <div align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jean-GIESE&theme=2077" />
