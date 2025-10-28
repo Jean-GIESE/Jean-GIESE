@@ -1,7 +1,7 @@
 <h1 align="center">Salut <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>, moi c'est Jean</h1>
 <!-- Intro -->
 <p style="margin: 15px;" align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=00AA00&center=true&vCenter=true&lines=Joueur+clash+royale;Développeur+informatique">
+    <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=00AA00&center=true&vCenter=true&lines=Développeur+informatique">
 </p>
 <h3 align="center">Un grand passionné de clash royale venu tout droit de France <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/></h3>
 
@@ -13,9 +13,6 @@
 
 - ⚡ Fun fact n°2 **je vous ai déjà dit que j'aimais bien clash royale ? 🙃​**
 
-Si vous voulez **m'ajouter en amis sur clash royale:** https://link.clashroyale.com/invite/friend/fr?tag=RYRR090PR&token=6hk6ye8g&platform=android
-
-*(Mais nan 😱​, le **GOAT** te laisse l'**HONNEUR** de le rajouter sur CR 😱​😱​😱​??!!?!?!?!, franchement je ne louperai pas l'occasion à ta place ​😉​)(PS: je n'ai pas du tout d'ego 🙂‍↔️​)*
 
 
 <h1 align="center">Statistiques</h1>
