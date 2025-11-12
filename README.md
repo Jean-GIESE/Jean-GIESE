@@ -3,7 +3,7 @@
 <p style="margin: 15px;" align="center">
     <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=00AA00&center=true&vCenter=true&lines=Développeur+informatique">
 </p>
-<h3 align="center">Un grand passionné de clash royale venu tout droit de France <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/></h3>
+<h3 align="center">Un grand passionné d'informatique venu tout droit de France <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/></h3>
 
 - 🌱 J'apprends en ce moment **à optimiser mon code, améliorer mes dépôts git, ainsi que différents langages comme décrit ci-dessous (avec les petites icônes trop stylées :3) en tant qu'étudiant.**
 
@@ -61,12 +61,7 @@
 </p>
 
 
-<p align="center">
-  <img src="https://img.thenerdstash.com/wp-content/uploads/2022/07/gold-clashroyale-01.jpg" alt="bannière" />
-</p>
-
-
-<h2 align="center">Autres informations</h2>
+<h1 align="center">Autres informations</h1>
 
 <div align="center">
     <a href="https://git.unistra.fr/jgiese" target="_blank">
