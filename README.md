@@ -5,7 +5,9 @@
 </p>
 <h3 align="center">Un grand passionné d'informatique venu tout droit de France <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/></h3>
 
-- 🌱 J'apprends en ce moment **à optimiser mon code, améliorer mes dépôts git, ainsi que différents langages comme décrit ci-dessous (avec les petites icônes trop stylées :3) en tant qu'étudiant.**
+- 🤔​ À propos de mes repositories ... (à compléter)
+
+- 🌱 J'apprends en ce moment **à optimiser mon code, améliorer mes dépôts git, ainsi que différents langages comme décrit ci-dessous (dans la catégorie "Langages et outils" avec les petites icônes trop stylées :3) en tant qu'étudiant.**
 
 - 📄 À propos de mes expériences **j'ai commencé l'informatique au lycée avec la spécialisation NSI, puis j'ai poursuivi avec une première ainsi qu'une deuxième (en cours) année de BUT informatique (I.U.T Robert Schuman)**
 
