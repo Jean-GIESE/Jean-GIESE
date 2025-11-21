@@ -5,7 +5,10 @@
 </p>
 <h3 align="center">Un grand passionné d'informatique venu tout droit de France <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/></h3>
 
-- 🤔​ À propos de mes repositories ... (à compléter)
+- 🤔​ À propos de mes repositories, **il y en a 3, le projet Donjon et Dragon, l'application de pompier et le jeu du Yam's. Les 3 ont été fait à l'université.**
+    - **Donjon et Dragon:** Un projet fait avec l'aide d'une autre personne sur une durée d'environ 1 mois consistant à reproduire le jeu donjon et dragon en java et affiché sur le bash.
+    - **Application de pompier:** Une application fait sur l'interface graphique Winforms en C# à l'aide de base de données utilisées avec SQLite visant à aider les pompiers sur différent points ; gérer les missions ainsi que les rapports de missions, gérer le personnel , et gérer le matériel (les véhicules par exemple).
+    - **Jeu du Yam's:** Le jeu du Yam's codé en C# avec la partie qui se déroule sur le bash et une possibilité de visualiser les statistiques de la partie grâce à une page web créée et dédiée à ça.
 
 - 🌱 J'apprends en ce moment **à optimiser mon code, améliorer mes dépôts git, ainsi que différents langages comme décrit ci-dessous (dans la catégorie "Langages et outils" avec les petites icônes trop stylées :3) en tant qu'étudiant.**
 
