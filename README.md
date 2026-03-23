@@ -69,6 +69,7 @@
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>   
     <a href="https://computerscience.missouristate.edu/mars-mips-simulator.htm" target="_blank" rel="noreferrer"> <img src="https://dpetersanderson.github.io/index_files/Mars%20140.jpg" alt="mars" width="40" height="40"/> </a>   
     <a href="https://developer.android.com/studio?hl=fr" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/1280px-Android_Studio_icon_%282023%29.svg.png" alt="Android Studio" width="40" height="40"/> </a>   
+    <a href="https://plantuml.com/fr/" target="_blank" rel="noreferrer"> <img src="https://images.icon-icons.com/2107/PNG/512/file_type_plantuml_icon_130258.png" alt="plantuml" width="40" height="40"/> </a>  
 </p>
 
 
