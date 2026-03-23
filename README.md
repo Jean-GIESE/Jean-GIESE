@@ -44,6 +44,7 @@
     <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/250px-Typescript_logo_2020.svg.png" alt="TypeScript" width="40" height="40"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+    <a href="https://fr.wikipedia.org/wiki/Assembleur" target="_blank" rel="noreferrer"> <img src="https://media.licdn.com/dms/image/v2/D4D12AQEM9F_-u1OT5Q/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1658763190886?e=2147483647&v=beta&t=aEp72fzTRZC_0EilFbT0wVV2jw6O-Bqt759qLG4pLrw" alt="assembly language" width="40" height="40"/> </a>
 </p>
 <h3 align="center">Développement front-end</h3>
 <p align="center">
@@ -66,6 +67,8 @@
 <p align="center">   
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>   
+    <a href="https://computerscience.missouristate.edu/mars-mips-simulator.htm" target="_blank" rel="noreferrer"> <img src="https://dpetersanderson.github.io/index_files/Mars%20140.jpg" alt="mars" width="40" height="40"/> </a>   
+    <a href="https://developer.android.com/studio?hl=fr" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/1280px-Android_Studio_icon_%282023%29.svg.png" alt="Android Studio" width="40" height="40"/> </a>   
 </p>
 
 
